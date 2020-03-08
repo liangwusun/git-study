@@ -3,3 +3,4 @@ push github failed
 I'll keep going
 test modify
 test GUI
+test checkout
