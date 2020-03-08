@@ -1,1 +1,2 @@
 Start learning Git
+push github failed
