@@ -4,4 +4,5 @@ I'll keep going
 test modify
 test GUI
 test checkout
-Creating a new branch is quick.
+Creating a new branch is quick
+Creating a new branch is quick & simple.
